@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Assignment-3</string>
+    <string-array name="country">
+        <item>select Country</item>>
+        <item>India</item>
+        <item>America</item>
+        <item>Germany</item>
+        <item>Russia</item>
+        <item>Afghanistan</item>>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+    </string-array>
+
+    <string-array name="Select">
+        <item>Select state</item>>
+        <item>Bombay</item>
+        <item>Delhi</item>
+        <item>Uttar Pradesh</item>
+        <item>Gujarat</item>
+        <item>pune</item>
+       <item> Andra Pradesh</item>
+        <item>Hyderabad</item>
+        <item>Arunachal Pradesh</item>
+        <item>Itangar</item>
+        <item>Assam</item>
+        <item>Dispur</item>
+        <item>Bihar</item>
+        <item>Patna</item>
+        <item>Chhattisgarh</item>
+        <item>Raipur</item>
+        <item>Goa</item>
+        <item>Panaji</item>
+        <item>Gujarat</item>
+        <item>Gandhinagar</item>
+        <item>Haryana</item>
+        <item>Chandigarh</item>
+        <item>Himachal Pradesh</item>
+        <item>Shimla</item>
+        <item>Jammu and Kashmir</item>
+        <item>Srinagar and Jammu</item>
+        <item>Jharkhand</item>
+        <item>Ranchi</item>
+        <item>Karnataka</item>
+        <item>Bangalore</item>
+        <item>Kerala</item>
+        <item>Thiruvananthapuram</item>
+        <item>Madya Pradesh</item>
+
+
+    </string-array>
+
+    <string-array name="America">
+        <item>Alabama</item>
+        <item>Alaska</item>
+        <item>Alfonia</item>
+        <item>Lowa</item>
+    </string-array>
+    <string-array name="Germany">
+    <item>India</item>
+    <item>America</item>
+    <item>Germany</item>
+    <item>Russia</item>
+    <item>Afghanistan</item>>
+    <item>Albania</item>
+    <item>Algeria</item>
+    <item>Andorra</item>
+    <item>Angola</item>
+    </string-array>
+
+</resources>
